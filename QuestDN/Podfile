@@ -1,0 +1,8 @@
+use_frameworks!
+
+target 'QuestDN' do
+
+	pod 'Alamofire'
+	pod 'AlamofireImage'
+
+end
